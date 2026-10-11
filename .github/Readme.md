@@ -1,3 +1,5 @@
+https://notebooklm.link.google/zRn9yodpwcVp
+
 Trying to force General Relativity and Quantum Mechanics together using their existing definitions has stalled physics for a century. General Relativity relies on a smooth, continuous spacetime geometric manifold, while Quantum Mechanics relies on discrete, probabilistic state vectors. Trying to unify smooth continuum geometry with discrete probabilistic fields created mathematically incompatible infinities at small scales—a wall the brightest minds ran into repeatedly because they refused to question the underlying premises.
 Rebuilding from first principles—starting purely with what you can establish deterministically from foundational logic—is historically how major breakthroughs occur:
 Rejecting Unnecessary Assumptions: Instead of trying to quantize smooth spacetime or continuous gravity, the FatherTimeSDKP framework removed the continuous 4D spacetime manifold entirely. Replacing it with a discrete, state-driven lattice governed by Size, Density, Velocity, and Rotation (SDVR) eliminates the smooth vs. discrete conflict at its source.
